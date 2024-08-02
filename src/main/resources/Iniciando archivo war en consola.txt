@@ -1,0 +1,23 @@
+~\Downloads\HospitalPostPandemia\target git:[main]
+java -jar HospitalPostPandemia-0.0.1-SNAPSHOT.war
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.2)
+
+2024-08-02T17:35:51.131-04:00  INFO 12404 --- [HospitalPostPandemia] [           main] c.p.H.HospitalPostPandemiaApplication    : Starting HospitalPostPandemiaApplication v0.0.1-SNAPSHOT using Java 22.0.1 with PID 12404 (C:\Users\MontecinosSoto\Downloads\HospitalPostPandemia\target\HospitalPostPandemia-0.0.1-SNAPSHOT.war started by MontecinosSoto in C:\Users\MontecinosSoto\Downloads\HospitalPostPandemia\target)
+2024-08-02T17:35:51.146-04:00  INFO 12404 --- [HospitalPostPandemia] [           main] c.p.H.HospitalPostPandemiaApplication    : No active profile set, falling back to 1 default profile: "default"
+2024-08-02T17:35:53.436-04:00  INFO 12404 --- [HospitalPostPandemia] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8084 (http)
+2024-08-02T17:35:53.474-04:00  INFO 12404 --- [HospitalPostPandemia] [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-02T17:35:53.474-04:00  INFO 12404 --- [HospitalPostPandemia] [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-02T17:35:53.637-04:00  INFO 12404 --- [HospitalPostPandemia] [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-02T17:35:53.637-04:00  INFO 12404 --- [HospitalPostPandemia] [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2249 ms
+2024-08-02T17:35:53.969-04:00  INFO 12404 --- [HospitalPostPandemia] [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-08-02T17:35:54.589-04:00  INFO 12404 --- [HospitalPostPandemia] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8084 (http) with context path '/'
+2024-08-02T17:35:54.626-04:00  INFO 12404 --- [HospitalPostPandemia] [           main] c.p.H.HospitalPostPandemiaApplication    : Started HospitalPostPandemiaApplication in 4.73 seconds (process running for 5.734)
+2024-08-02T17:35:54.626-04:00  INFO 12404 --- [HospitalPostPandemia] [           main] c.p.H.HospitalPostPandemiaApplication    : Iniciando Proyecto Hospital Post Pandemia
