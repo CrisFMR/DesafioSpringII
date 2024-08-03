@@ -26,7 +26,7 @@ public class PacienteController {
         logger.warn("Construyendo listado de Pacientes...");
         model.addAttribute("pacientes", service.findAll());
         logger.warn("Pacientes han sido listados satisfactoriamente");
-        return "PacientesList";
+        return "pacientesList";
 
     }
 
